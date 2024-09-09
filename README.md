@@ -49,9 +49,14 @@ Breaks down the proportion of adults reporting fair or poor health status by rac
 4. **Visualization**:
    - **Figures**:
      - **Figure 1**: Scatter plot of health status vs. the percentage of the population under 100% of the federal poverty level.
+    ![Health Status vs. Poverty Level](visuals/under100.svg)
      - **Figure 2**: Scatter plot of health status vs. the percentage of the population over 400% of the federal poverty level.
+    ![Health Status vs. Poverty Level](visuals/over400.svg)
      - **Figure 3**: Scatter plot of health status vs. the percentage of the population between 200-399% of the federal poverty level.
+    ![Health Status vs. Poverty Level](visuals/between200.svg)
      - **Figure 4**: Bar chart showing the percentage of adults reporting fair or poor health by region and race.
+    ![Health Status vs. Poverty Level](visuals/barchart.svg)
+
 
 5. **Regional Analysis**:
    - Grouped states into regions and calculated average health status by region.
